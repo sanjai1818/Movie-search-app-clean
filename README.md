@@ -1,1 +1,1 @@
-# movie-maniac
+# movie-search-app
